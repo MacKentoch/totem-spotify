@@ -1,0 +1,11 @@
+// common:
+@import "./common";
+// containers:
+@import "../containers/app/app";
+// views:
+@import "../views/home/home";
+@import "../views/artist/artist";
+@import "../views/album/album";
+// components:
+@import "../components/listArtists/listArtists";
+@import "../components/listAlbums/listAlbums";
